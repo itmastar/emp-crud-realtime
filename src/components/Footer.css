@@ -1,0 +1,15 @@
+p{
+    color:bisque;
+    margin-left: 40%;
+}
+.footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    background-color:black;
+    color:whitesmoke;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    height:40px;
+}

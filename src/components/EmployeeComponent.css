@@ -1,0 +1,14 @@
+#form{
+    margin-top: 20px;
+}
+
+#btn-save{
+    width :150px;
+    margin-top: 20px;
+}
+
+#btn-cancel{
+    width:150px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
